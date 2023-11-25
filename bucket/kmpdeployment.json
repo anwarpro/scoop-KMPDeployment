@@ -5,7 +5,6 @@
   "license": "Apache-2.0",
   "url": "https://github.com/anwarpro/KMPDeployment/releases/download/v1.0.0/kmpdeployment-1.0.0.msi",
   "hash": "sha256:f226c4f17792b0d6395690d3a14aa90b02ef8566ec1b43b200ad96844e13de28",
-  "extract_dir": "kmpdeployment-1.0.0",
   "bin": "kmpdeployment.exe",
   "checkver": {
     "url": "https://github.com/anwarpro/KMPDeployment/releases/latest"
